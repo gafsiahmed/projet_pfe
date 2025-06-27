@@ -11,3 +11,7 @@ Etude de l'existance
 ---------------
 chapitre 2 
 Initialisation du projet 
+
+
+=> image1 
+=> image 2
