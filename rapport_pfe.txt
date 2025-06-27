@@ -14,4 +14,6 @@ Initialisation du projet
 
 
 => image1 
-=> image 2
+=> image2
+
+=> dans le chapitre 2 on vas parler de la fonctionnalité 1
